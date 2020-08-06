@@ -14,7 +14,7 @@
 <div align="center"> 
 
 - 📫 How to reach me:
-[My LinkedIn Account](https://www.linkedin.com/in/moha-salem/")
+[My LinkedIn Account](https://www.linkedin.com/in/moha-salem/)
 
 </div> 
 
