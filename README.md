@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
+  
+ ## It is me, Mohamed Salem 🤝
+ 
+ </div>
 
-<!--
-**MohaSalem/MohaSalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+  
+  **Dedicated Software Developer to the Craft of Building Professionally Elegant Applications. I Love Learning New Technologies and Enjoy the Challenges, Just a Resolute Software Developer!**
+  
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me:
+[My LinkedIn Account](https://www.linkedin.com/in/moha-salem/")
+
