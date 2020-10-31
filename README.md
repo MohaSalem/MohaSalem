@@ -7,7 +7,9 @@
 
 <div align="center"> 
   
-  **Dedicated Software Developer to the Craft of Building Professionally Elegant Applications. I Love Learning New Technologies and Enjoy the Challenges, Just a Resolute Software Developer!**
+  **I am currently working as a Mobile Developer, developing and supporting THE END llc. android and ios mobile application using Xamarin.Forms, .Net, C#, XAML, Xamarin and Microsoft Azure Cloud Services.
+
+I also had hands-on experience using Java, Spring Boot, Spring MVC, Maven , Java Server Pages (JSP) and Bootstrap.**
   
 </div>
 
