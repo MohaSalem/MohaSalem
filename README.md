@@ -7,7 +7,8 @@
 
 <div align="center"> 
   
-  **I am currently working as a Mobile Developer, developing and supporting THE END llc. android and ios mobile application using Xamarin.Forms, .Net, C#, XAML, Xamarin and Microsoft Azure Cloud Services. I also had hands-on experience using Java, Spring Boot, Spring MVC, Maven , Java Server Pages (JSP) and Bootstrap.**
+  **I am currently working as a Software Engineer at Playtech!
+    Also as a Mobile Developer, developing and supporting THE END llc. Android and iOS mobile application.**
   
 </div>
 
