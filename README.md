@@ -7,7 +7,7 @@
 
 <div align="center"> 
   
-  **I am currently working as a Software Engineer at Playtech!
+  **I am currently working as a Software Engineer!
     Also as a Mobile Developer, developing and supporting THE END llc. Android and iOS mobile application.**
   
 </div>
