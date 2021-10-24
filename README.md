@@ -13,7 +13,7 @@
 
 <div align="center"> 
 
-- 📫 How to reach me & to get more info.:
+ 📫 How to reach me & to get more info.:
 [My LinkedIn Account](https://www.linkedin.com/in/moha-salem/)
 
 </div> 
