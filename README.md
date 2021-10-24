@@ -7,7 +7,7 @@
 
 <div align="center"> 
   
-  **I am currently working as a Software Engineer!**
+  **Software Developer**
   
 </div>
 
