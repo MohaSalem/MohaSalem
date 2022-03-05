@@ -7,7 +7,7 @@
 
 <div align="center"> 
   
-  **Software Developer**
+  **Software Engineer**
   
 </div>
 
