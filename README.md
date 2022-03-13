@@ -21,8 +21,6 @@
 
 ### :octocat: Github Statistics
 
-<p align="left">
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohaSalem&show_icons=true&locale=en&theme=radical" alt="MohaSalem" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohaSalem&show_icons=true&locale=en&layout=compact&theme=radical" alt="MohaSalem" />
-<!--img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohaSalem&theme=radical" alt="MohaSalem" /-->
 </p>
