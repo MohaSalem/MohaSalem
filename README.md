@@ -22,5 +22,5 @@
 ### :octocat: Github Statistics
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohaSalem&show_icons=true&locale=en&include_all_commits=true&theme=radical" alt="MohaSalem" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohaSalem&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=radical" alt="MohaSalem" />
 </p>
