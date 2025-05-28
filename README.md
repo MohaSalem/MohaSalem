@@ -1,13 +1,13 @@
 <div align="center">
   
-  ### Yo, It is me 👨🏽‍💻
+  ### Yo, it is me 👨🏽‍💻
  ## Mohamed Salem 🤝
  
  </div>
 
 <div align="center"> 
   
-  **Software Engineer**
+  **Senior Software Engineer**
   
 </div>
 
